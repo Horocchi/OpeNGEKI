@@ -3,7 +3,9 @@
 Use the models or plans as-is for a complete solution, or use/modify components for your own designs
 
 **Special thanks -** to the many members of Cons&Stuff for reference photos and measurements
+
 **For any suggestions or questions -** you can find me (Horo) on the Cons&Stuff Discord server
+
 [![C&S Discord Image](https://discordapp.com/api/guilds/101851954677837824/widget.png?style=banner2)](https://discord.gg/82C3ccxPr7)
 
 ## Features
@@ -23,7 +25,7 @@ Use the models or plans as-is for a complete solution, or use/modify components 
 ## Versions
 
 | | QR card slots | IC reader | Headphone jack | AC control panel | Simple construction
-|-|-|-|-|-|-|-|-|-|-|
+| --- | --- | --- | --- | --- | --- | --- |
 |**Real**  | Yes | Yes | Yes | Yes | No
 |**Simple**| Yes | Yes | Yes | Yes | Yes
 |**Basic** | No | Optional | Optional | Yes | Yes
