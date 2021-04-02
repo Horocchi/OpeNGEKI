@@ -24,11 +24,11 @@ Use the models or plans as-is for a complete solution, or use/modify components 
 
 ## Versions
 
-| | QR card slots | IC reader | Headphone jack | AC control panel | Simple construction
-| --- | --- | --- | --- | --- | --- | --- |
-|**Real**  | Yes | Yes | Yes | Yes | No
-|**Simple**| Yes | Yes | Yes | Yes | Yes
-|**Basic** | No | Optional | Optional | Yes | Yes
+| Version | QR card slots | IC reader | Headphone jack | AC control panel | Simple construction |
+| --- | --- | --- | --- | --- | --- |
+|**Real**  | Yes | Yes | Yes | Yes | No |
+|**Simple**| Yes | Yes | Yes | Yes | Yes |
+|**Basic** | No | Optional | Optional | Yes | Yes |
 
 
 - **Real** - arcade replica design and sizing, intended for enthusiasts making a dedicated setup
