@@ -17,26 +17,45 @@ All versions share the same arcade-accurate control panel, and the same spacing/
 
 ### Art - 2D
 Contains Adobe Illustrator files `.ai` for the control and card panels
+
 In addition to working with the 3D models, these are all you need to make a fully handmade controller
 
 `Fonts` contains font files used in the Illustrator documents
+
 In order to make revisions easier, text is not converted to outlines, so install these first
 
 ### Models - 3D
+
+**Not yet added.**
+
 Contains Fusion 360 archives `.f3z` of each controller variant
+
 It's recommended to make a new folder for the project in Fusion, then simply import the file
+
 All sub-assembiles (components/parts) will be imported, and can be individually edited or exported as needed
 
-#### Exporting for print/cut
+**Planned:** subdirectories for each variant, with BOM and clear description of the design
 
-Only the wall/side buttons will have pre-exported `.stl` files in this repo (for now)
-For other components, you can export them yourself in whatever format your tools/workshop require
+**Note:** Only the wall/side buttons will have pre-exported `.stl` files (for now)
 
+For other components, you can modify/export them yourself in whatever format your tools/workshop require
 
 ## To-do
 
-Add 
+- Add Real variant Fusion archive (after verifying exported content)
+- Create dust cover for lever (implement into Top Panel acrylic layer)
+- Create support bracket for back wood panel (Real variant)
+- Create Simple and Basic variants
+- Implement alternative 3D printable lever system
+- Remake headphone jack decal in vector/accurate
 
 ## Tools / Materials
 
-To-do
+Will be listed/added at a later date (probably in each variant's subdirectory)
+
+## Known issues
+
+- Card reader carriage incomplete (needs mounting hardware for desired reader hardware variants)
+- Bottom panel has no attachment hardware (magnets?) or feet
+- Side button hinge should not allow vertical movement (needs removable hinge lock, instead of open slot)
+- Lever needs 3D printed paired bushing system to prevent springy travel

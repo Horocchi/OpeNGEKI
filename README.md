@@ -3,9 +3,13 @@
 
 ![OpeNGEKI Image](https://i.imgur.com/2HHWvBx.png)
 
+#### This project is a work in progress.
+
 Use the models or plans as-is for a complete solution, or use/modify components for your own designs
 
 **Special thanks -** to the many members of Cons&Stuff for reference photos and measurements
+
+
 
 **For any suggestions or questions -** you can find me (Horo) on the Cons&Stuff Discord server
 
