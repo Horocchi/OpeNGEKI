@@ -20,7 +20,7 @@ Contains Adobe Illustrator files `.ai` for the control and card panels
 
 In addition to working with the 3D models, these are all you need to make a fully handmade controller
 
-`Fonts` contains font files used in the Illustrator documents
+`/Art - 2D/Fonts` contains font files used in the Illustrator documents
 
 In order to make revisions easier, text is not converted to outlines, so install these first
 
@@ -30,7 +30,7 @@ In order to make revisions easier, text is not converted to outlines, so install
 
 Contains Fusion 360 archives `.f3z` of each controller variant
 
-It's recommended to make a new folder for the project in Fusion, then simply import the file
+It's recommended to make a new folder for the project in Fusion, then simply import the file (it will dump a lot of parts)
 
 All sub-assembiles (components/parts) will be imported, and can be individually edited or exported as needed
 
