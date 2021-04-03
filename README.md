@@ -9,9 +9,7 @@ Use the models or plans as-is for a complete solution, or use/modify components 
 
 **Special thanks -** to the many members of Cons&Stuff for reference photos and measurements
 
-
-
-**For any suggestions or questions -** you can find me (Horo) on the Cons&Stuff Discord server
+**For any suggestions or questions -** I suggest joining the Cons&Stuff Discord server
 
 [![C&S Discord Image](https://discordapp.com/api/guilds/101851954677837824/widget.png?style=banner2)](https://discord.gg/82C3ccxPr7)
 
@@ -25,7 +23,7 @@ Use the models or plans as-is for a complete solution, or use/modify components 
 - Modular IC card reader panel/carriage
 - ~~One extra card and guaranteed SR for every 1000 yen~~
 
-**Software**
+**Software required**
 - 3D models: Autodesk Fusion 360
 - 2D designs: Adobe Illustrator
 
@@ -46,8 +44,4 @@ All variants share the same arcade-accurate control panel, and the same spacing/
 
 ## Components
 
-To-do
-
-## Tools / Materials
-
-To-do
+See `/hardware` for details on components, materials, etc.
