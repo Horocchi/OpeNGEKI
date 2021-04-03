@@ -1,5 +1,8 @@
 # OpeNGEKI
-#### An open-hardware arcade music game controller platform
+### An open-hardware arcade music game controller platform
+
+![OpeNGEKI Image](https://i.imgur.com/2HHWvBx.png)
+
 Use the models or plans as-is for a complete solution, or use/modify components for your own designs
 
 **Special thanks -** to the many members of Cons&Stuff for reference photos and measurements
@@ -22,9 +25,9 @@ Use the models or plans as-is for a complete solution, or use/modify components 
 - 3D models: Autodesk Fusion 360
 - 2D designs: Adobe Illustrator
 
-## Versions
+## Variants
 
-| Version | QR card slots | IC reader | Headphone jack | AC control panel | Simple construction |
+| Variant | QR card slots | IC reader | Headphone jack | AC control panel | Simple construction |
 | --- | --- | --- | --- | --- | --- |
 |**Real**  | Yes | Yes | Yes | Yes | No |
 |**Simple**| Yes | Yes | Yes | Yes | Yes |
@@ -35,7 +38,7 @@ Use the models or plans as-is for a complete solution, or use/modify components 
 - **Simple** - same features as Real, but a simpler geometric construction with a smaller footprint
 - **Basic** - no card slots, option IC reader and headphone jack, likely what most users will look for
 
-All versions share the same arcade-accurate control panel, and the same spacing/art is used on each
+All variants share the same arcade-accurate control panel, and the same spacing/art is used on each
 
 ## Components
 
